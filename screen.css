@@ -214,6 +214,18 @@ label{
 }
 
 
-/* ===== MODULAR STYLES ===== */
+@media screen and (min-width: 960px){
+  
+  html{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.563em; /*25px*/
+  line-height: 1.8756em; /*120%*/
+  padding: 1.8756em;
+  text-rendering: optimizeLegibility;
+  margin-left: auto; 
+  margin-right: auto; 
+}
 
-/* ===== STATE STYLES ======= */
+legend{
+  text-align: right; 
+}
