@@ -189,13 +189,15 @@ html{
   text-rendering: optimizeLegibility;
   padding-left: 0px; 
   padding-right: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px; 
 }
 
 
 form{
   margin: 0px; 
   padding: 0px; 
-  width: 95%;
+  width: 100%;
 }
 
 legend{
@@ -204,7 +206,7 @@ legend{
 }
 
 fieldset{
-  margin: 0px; 
+  margin: 0px 5px 0px 5px; 
   padding: 0px; 
   width: 95%; 
 }
@@ -213,11 +215,14 @@ label{
   display: block;
   text-align: left;
   font-weight: bold; 
-  margin-bottom: 3px; 
+  line-height: .75em; 
+  margin-left: 1.618em; 
+  margin-bottom: 3px;
 }
 
 input{
-  margin-bottom: 1.5em; 
+  margin-left: 1.618em; 
+  margin-bottom: 1.618em; 
 }
 
 
@@ -231,6 +236,8 @@ input{
   text-rendering: optimizeLegibility;
   margin-left: auto; 
   margin-right: auto; 
+  margin-left: 0px; 
+  margin-right: 0px; 
 }
 
 legend{
