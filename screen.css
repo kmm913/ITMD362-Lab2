@@ -183,7 +183,10 @@ textarea {
 
 html{
   font-family: 'Ubuntu', sans-serif;
-  
+  font-size: 1.563em; /*25px*/
+  line-height: 1.8756em; /*120%*/
+  padding: 1.8756em;
+  text-rendering: optimizeLegibility;
 }
 
 body{
