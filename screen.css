@@ -187,14 +187,14 @@ html{
   line-height: 1.8756em; /*120%*/
   padding: 1.8756em;
   text-rendering: optimizeLegibility;
-  padding-left: 0px; 
-  padding-right: 0px; 
+  margin-left: 0px; 
+  margin-right: 0px; 
 }
 
 label{
   display: block;
   font-weight: bold; 
-  padding-bottom: 1px; 
+  margin-bottom: 1px; 
 }
 
 body{
