@@ -216,13 +216,13 @@ label{
   text-align: left;
   font-weight: bold; 
   line-height: .75em; 
-  margin-left: 1.618em; 
+  margin-left: 1em; 
   margin-bottom: 3px;
 }
 
 input{
-  margin-left: 1.618em; 
-  margin-bottom: 1.618em; 
+  margin-left: 1em; 
+  margin-bottom: 1em; 
 }
 
 
