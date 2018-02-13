@@ -204,6 +204,10 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 
+body{
+  width: 100%; 
+}
+
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
