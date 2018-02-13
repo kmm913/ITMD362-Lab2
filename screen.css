@@ -251,14 +251,20 @@ body{
   background-color: #F1D4F7; 
   color: #6C3B76;
   width: 90%;
+  margin-left: auto; 
+  margin-right: auto; 
 }
 
 form{
   width: 90%; 
+  margin-left: auto;
+  margin-right: auto;
 }
 
 fieldset{
   width: 85%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 legend{
