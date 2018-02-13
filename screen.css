@@ -205,12 +205,15 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 body{
-  margin-left: 0px;
-  margin-right: 0px; 
+  width: 100%;  
 }
 
 form{
   width: 100%;
+}
+
+label, input {
+  padding-bottom: 5px; 
 }
 
 /* ===== MODULAR STYLES ===== */
