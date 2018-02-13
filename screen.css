@@ -193,8 +193,9 @@ html{
 
 
 form{
-  margin: 0 5px 1.5em 5px; 
-  width: 100%;
+  margin: 0px; 
+  padding: 0px; 
+  width: 95%;
 }
 
 legend{
@@ -203,7 +204,9 @@ legend{
 }
 
 fieldset{
-  width: 90%; 
+  margin: 0px; 
+  padding: 0px; 
+  width: 95%; 
 }
 
 label{
