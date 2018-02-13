@@ -205,9 +205,12 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 body{
-  padding-left: 2px; 
-  padding-right: 2px; 
-  
+  margin-left: 0px;
+  margin-right: 0px; 
+}
+
+form{
+  width: 100%;
 }
 
 /* ===== MODULAR STYLES ===== */
