@@ -189,16 +189,8 @@ html{
   text-rendering: optimizeLegibility;
 }
 
-body{
-  width: 100%;  
-}
-
-form{
-  width: 100%;
-}
-
-label, input {
-  padding-bottom: 5px; 
+label{
+  display: block;
 }
 
 /* ===== MODULAR STYLES ===== */
