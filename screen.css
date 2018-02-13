@@ -205,7 +205,9 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 body{
-  width: 100%; 
+  padding-left: 2px; 
+  padding-right: 2px; 
+  
 }
 
 /* ===== MODULAR STYLES ===== */
