@@ -183,9 +183,9 @@ textarea {
 
 html{
   font-family: 'Ubuntu', sans-serif;
-  font-size: 1.25em; /*25px*/
-  line-height: 1.5em; /*120%*/
-  padding: 1.5em;
+  font-size: 1em; /*16px*/
+  line-height: 1.618em; /*golden ratio scale*/
+  padding: 1.618em;
   text-rendering: optimizeLegibility;
   padding-left: 0px; 
   padding-right: 0px; 
