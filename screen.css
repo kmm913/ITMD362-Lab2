@@ -187,7 +187,8 @@ html{
   line-height: 1.8756em; /*120%*/
   padding: 1.8756em;
   text-rendering: optimizeLegibility;
-  padding: 0px; 
+  padding-left: 0px; 
+  padding-right: 0px; 
 }
 
 label{
