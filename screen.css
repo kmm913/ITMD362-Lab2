@@ -193,6 +193,7 @@ html{
 
 label{
   display: block;
+  font-weight: bold; 
 }
 
 body{
@@ -201,6 +202,11 @@ body{
 
 form{
   width: 100%;
+}
+
+legend{
+  text-align: right; 
+  font-weight: bold; 
 }
 
 /* ===== MODULAR STYLES ===== */
