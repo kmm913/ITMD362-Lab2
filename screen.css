@@ -250,7 +250,8 @@ input{
 }
 
 body{
-  background-color: #CDA2D6; 
+  background-color: #F1D4F7; 
+  color: #6C3B76;
 }
 
 legend{
@@ -260,4 +261,10 @@ legend{
 
 label{
   display: inline-block; 
+}
+
+#submit_button{
+  background-color: #421D4A;
+  color: white; 
+  font-weight: bold; 
 }
