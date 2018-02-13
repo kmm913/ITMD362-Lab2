@@ -202,6 +202,10 @@ legend{
   font-weight: bold; 
 }
 
+fieldset{
+  width: 90%; 
+}
+
 label{
   display: block;
   text-align: left;
