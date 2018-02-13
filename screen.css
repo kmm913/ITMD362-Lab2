@@ -193,6 +193,10 @@ html{
   margin-right: 0px; 
 }
 
+body{
+  color: #6BA099;
+  background-color: #D1E6E3; 
+}
 
 form{
   margin: 0px; 
@@ -225,6 +229,11 @@ input{
   margin-bottom: 1em; 
 }
 
+#submit_button{
+  background-color: #246B61;
+  color: white;
+  font-weight: bold; 
+}
 
 @media screen and (min-width: 960px){
   
@@ -238,6 +247,10 @@ input{
   margin-right: auto; 
   margin-left: 0px; 
   margin-right: 0px; 
+}
+
+body{
+  background-color: purple; 
 }
 
 legend{
