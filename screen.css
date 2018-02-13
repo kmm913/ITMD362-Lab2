@@ -194,6 +194,7 @@ html{
 label{
   display: block;
   font-weight: bold; 
+  padding-bottom: 1px; 
 }
 
 body{
