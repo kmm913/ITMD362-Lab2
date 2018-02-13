@@ -244,14 +244,21 @@ input{
   padding: 1.8756em;
   text-rendering: optimizeLegibility;
   margin-left: auto; 
-  margin-right: auto; 
-  margin-left: 0px; 
-  margin-right: 0px; 
+  margin-right: auto;  
 }
 
 body{
   background-color: #F1D4F7; 
   color: #6C3B76;
+  width: 90%;
+}
+
+form{
+  width: 90%; 
+}
+
+fieldset{
+  width: 85%;
 }
 
 legend{
@@ -261,10 +268,18 @@ legend{
 
 label{
   display: inline-block; 
+  margin-right: 2px; 
+  padding-right: 0px; 
+}
+
+input{
+  margin-left: 0px;
+  padding-left: 0px; 
 }
 
 #submit_button{
   background-color: #421D4A;
   color: white; 
   font-weight: bold; 
+  margin-left: 1em;
 }
