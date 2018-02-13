@@ -187,6 +187,7 @@ html{
   line-height: 1.8756em; /*120%*/
   padding: 1.8756em;
   text-rendering: optimizeLegibility;
+  overflow-x: hidden; 
 }
 
 label{
@@ -195,6 +196,7 @@ label{
 
 body{
   width: 100%; 
+  overflow-x: hidden;
 }
 
 form{
